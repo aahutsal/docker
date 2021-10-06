@@ -1,4 +1,4 @@
-FROM        ubuntu:xenial-20210114
+FROM        ubuntu:xenial-20210416
 MAINTAINER  Daniel Yokomizo <daniel.yokomizo@gmail.com>
 
 RUN apt-get clean \
