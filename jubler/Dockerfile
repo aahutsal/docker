@@ -1,4 +1,4 @@
-FROM        ubuntu:trusty
+FROM        ubuntu:trusty-20190425
 MAINTAINER  Daniel Yokomizo <daniel.yokomizo@gmail.com>
 
 RUN apt-get update \
